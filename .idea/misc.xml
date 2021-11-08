@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/animamphibians.xml" value="0.11574074074074074" />
+        <entry key="app/src/main/res/drawable/animbirds.xml" value="0.11574074074074074" />
+        <entry key="app/src/main/res/drawable/animfishes.xml" value="0.11574074074074074" />
+        <entry key="app/src/main/res/drawable/animinverts.xml" value="0.11574074074074074" />
+        <entry key="app/src/main/res/drawable/animmammals.xml" value="0.11574074074074074" />
+        <entry key="app/src/main/res/drawable/animreptiles.xml" value="0.11574074074074074" />
+        <entry key="app/src/main/res/drawable/next_button_icons.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/drawable/prev_button_icon.xml" value="0.2361111111111111" />
+        <entry key="app/src/main/res/layout/activity_invert.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12447916666666667" />
+        <entry key="app/src/main/res/layout/activity_media.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_sub_invert.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_youtube_player.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_data.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/layout_media.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
